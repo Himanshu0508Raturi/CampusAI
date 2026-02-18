@@ -1,6 +1,6 @@
 from retriever import retrieve_notices
 
-results = retrieve_notices("What is pbl notice for 1st phase evaluation", limit=3)
+results = retrieve_notices("what is the latest pbl notice regarding rescheduling.", limit=2)
 
 for r in results:
     print("Title:", r["metadata"]["title"])
