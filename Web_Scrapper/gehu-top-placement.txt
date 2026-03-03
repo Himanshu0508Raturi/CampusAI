@@ -1,0 +1,106 @@
+Top Placement Records
+ 
+Student Name	Branch	  Company Name	Salary Package (Lacs)
+Darshit Joshi	Computer Science & Engineering	Amazon	47.88
+Ikshit Dhyani	Computer Science & Engineering	Amazon	47.88
+Divyansh Bhadra	Computer Science & Engineering	Amazon	47.88
+Vaibhav Gaur	Computer Science & Engineering	Amazon	47.88
+Chandni Mishra	CS (GEN)	Amazon	47.88
+Shreya Sharma	CS (ML & AI)	Amazon	47.88
+Pawandeep Kaur	CS (GEN)	Intuit	44.92
+Epsita Mukherjee	CS (GEN)	Paypal	34.40
+Shreya Sharma	CS (ML & AI)	Paypal	34.40
+Prakhar Dhyani	CS (GEN)	Paypal	34.40
+Sachin Upadhyay	Computer Science & Engineering	Paypal	32.90
+Sejal Aggarwal	Computer Science & Engineering	Paypal	32.90
+Ikshit Dhyani	Computer Science & Engineering	Visa	32.88
+Abhinav	Computer Science & Engineering	VISA	32.88
+Pawandeep Kaur	CS (GEN)	Flipkart	32.57
+Komal Kumari	CS (GEN)	Flipkart	32.57
+Harshit Bhainsora	CS (GEN)	Myntra	30.00
+Shobhan Srivastava	CS (GEN)	Myntra	30.00
+Adarsh Rawat	Computer Science & Engineering	Myntra	30.00
+Anshika Maheshwari	CS (GEN)	Morgan Stanley	29.4
+Pawandeep Kaur	CS (GEN)	Blinkit	25.00
+Avneet Singh	CS (GEN)	Zomato	25.00
+Kartik	CS (GEN)	Axteria	24.00
+Ashish Singh Negi	CS (GEN)	Axteria	24.00
+Aryan Joshi	Computer Science & Engineering	Axteria	24.00
+Himanshu Adhikari	Computer Science & Engineering	Axteria	24.00
+Himanshu Uniyal	Computer Science & Engineering	Axteria	24.00
+Kopal Pareek	Computer Science & Engineering	Axteria	24.00
+Pranjali Kothari	CS (GEN)	Juspay	21.00
+Sachin Upadhyay	Computer Science & Engineering	JP Morgan	19.75
+Naoman Ali	CS (Cyber Security)	ICAD	18.66
+Pawandeep Kaur	CS (GEN)	Limeroad	18.00
+Harish Sharma	Mechanical Engineering	Voltas	16.67
+Sumit Negi	CS (GEN)	ZScaler	14.50
+Priya Rawat	MBA	Zscaler	14.00
+Kiran Chauhan	MBA	Zscaler	14.00
+Shubham Rawat	Computer Science & Engineering	ZETA	16
+Aditi Bhadoria	Computer Science & Engineering	Amazon Intern Jan/Jul	13.20
+Himani Upadhyay	Computer Science & Engineering	Amazon Intern Jan/Jul	13.20
+Kajal Rawat	Computer Science & Engineering	Amazon Intern Jan/Jul	13.20
+Kopal Pareek	Computer Science & Engineering	Amazon Intern Jan/Jul	13.20
+Pritam Singh	Computer Science & Engineering	Amazon Intern Jan/Jul	13.20
+Sana Mansoori	Computer Science & Engineering	Amazon Intern Jan/Jul	13.20
+Shristi Tewari	Computer Science & Engineering	Amazon Intern Jan/Jul	13.20
+Simran	Computer Science & Engineering	Amazon Intern Jan/Jul	13.20
+Asit Kumar	CS (GEN)	SAP Fioneer	13.00
+Jaskirat Singh	Computer Science & Engineering	Tally Solutions	12.98
+Shreya Sharma	CS (ML & AI)	Amazon	12.00
+Khushi Sharma	Marketing	VisaBoard	12.00
+Khushi Sharma	CS (GEN)	Flipkart	11.00
+Avneet Singh	CS (GEN)	OpeninApp	11.00
+Ekta Aswal	CS (GEN)	Flipkart	11.00
+Riya Bhatt	CS (GEN)	National Australian Bank- NAB	11.00
+Yogesh Singh Yadav	CS (GEN)	Genpact	11.00
+Prakhar Dhyani	CS (GEN)	Genpact	11.00
+Deep Roop	CS (GEN)	Genpact	11.00
+Achintya Mishra	CS (GEN)	Genpact	11.00
+Rahul Kathayat	Computer Science & Engineering	Samsung Electromechanics	11.00
+Aman Joshi	Computer Science & Engineering	Wissen Technology	11.00
+Adarsh Negi	Computer Science & Engineering	NAB	11.00
+Khushi Naithani	Computer Science & Engineering	NAB	11.00
+Nilesh Bhanot	Computer Science & Engineering	NAB	11.00
+Rameshwari Kapoor	Computer Science & Engineering	NAB	11.00
+Saumya Bagri	Computer Science & Engineering	NAB	11.00
+Isha Khetarpal	Computer Science & Engineering	NAB	11.00
+Riya Negi	Computer Science & Engineering	NAB	11.00
+Simran Mahar	Computer Science & Engineering	NAB	11.00
+Pranjali Kothari	CS (GEN)	Genpact	11.00
+Shristi Pant	CS (GEN)	Flipkart	11.00
+Neetika Chauhan	MBA	Dhangaurd	10.89
+Gurnain Singh Wadhwa	Computer Science & Engineering	Infoedge	10.00
+Vaibhav Gupta	CS (GEN)	Accuknox	10.00
+Ankit Kumar	CS (GEN)	Infosys	9.50
+Tanuj Bhatt	CS (GEN)	Infosys	9.50
+Shubham Pokhriyal	CS (GEN)	Infosys	9.50
+Sachin Rana	CS (GEN)	Infosys	9.50
+Lavesh Kashyap	CS (GEN)	Infosys	9.50
+Dayavan Mishra	CS (GEN)	Infosys	9.50
+Aditya Garg	Computer Science & Engineering	Infosys	9.50
+Kritika	Computer Science & Engineering	Infosys	9.50
+Naman Bangari	Computer Science & Engineering	Infosys	9.50
+Aditya Garg	Computer Science & Engineering	Infosys	9.50
+Prabhat Semwal	Computer Science & Engineering	Infosys	9.50
+Priyanka Bani	Computer Science & Engineering	Infosys	9.50
+Rasesh Singh	Computer Science & Engineering	Infosys	9.50
+Sumit Rai	Computer Science & Engineering	Infosys	9.50
+Yogesh Rai	Computer Science & Engineering	Infosys	9.50
+Abhinav Bisht	Computer Science & Engineering	Infosys	9.50
+Anjali Uniyal	Computer Science & Engineering	Infosys	9.50
+Arjun Chauhan	Computer Science & Engineering	Infosys	9.50
+Aryan Singh	Computer Science & Engineering	Infosys	9.50
+Ayush Kumar Singh	Computer Science & Engineering	Infosys	9.50
+Laxman Singh	Computer Science & Engineering	Infosys	9.50
+Ritika Bisht	Computer Science & Engineering	Infosys	9.50
+Riya Gusain	Computer Science & Engineering	Infosys	9.50
+Shristi Yadav	Computer Science & Engineering	Infosys	9.50
+Shubham Kumar	Computer Science & Engineering	Infosys	9.50
+Abhishek Joshi	Computer Science & Engineering	Infosys	9.50
+Abhishek Kaintura	Computer Science & Engineering	Infosys	9.50
+Maahi Pal	Computer Science & Engineering	Infosys	9.50
+Saksham Bhatt	Computer Science & Engineering	Infosys	9.50
+Tushar Gautam	Computer Science & Engineering	Infosys	9.50
+Sarthak Singhal	Mechanical Engineering	JSW	9.50

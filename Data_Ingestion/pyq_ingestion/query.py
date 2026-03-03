@@ -90,7 +90,7 @@ def search_papers(user_query):
 # ----------------------------
 
 if __name__ == "__main__":
-    query = "btech cse 6 sem full stack web development end paper"
+    query = "btech cse 7 sem computer network mid paper"
 
     results = search_papers(query)
 
