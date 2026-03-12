@@ -11,3 +11,5 @@ langgraph
 langchain-community
 tqdm
 sentence-transformers
+google-genai
+langchain-groq
