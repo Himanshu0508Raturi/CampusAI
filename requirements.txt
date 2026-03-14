@@ -13,3 +13,6 @@ tqdm
 sentence-transformers
 google-genai
 langchain-groq
+openai
+fastapi[all]
+uvicorn[standard]
