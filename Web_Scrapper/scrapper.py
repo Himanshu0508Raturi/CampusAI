@@ -7,7 +7,7 @@ import time
 START_URL = "https://gehu.ac.in/dehradun/top-placement/"
 DOMAIN = urlparse(START_URL).netloc
 OUTPUT_FILE = "gehu-top-placement.txt"
-MAX_PAGES = 300        # hard limit (important)
+MAX_PAGES = 300
 CRAWL_DELAY = 0.7      # seconds
 
 headers = {
