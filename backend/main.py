@@ -16,9 +16,9 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-@app.get("/home")
-def home_function():
-    return {"Response" :"API is running live."}
+@app.get("/health")
+def health_check():
+    return {"status": "API is running live."}
 
 @app.post("/query", response_model=QueryResponse)
 def query_rag(request: QueryRequest):
