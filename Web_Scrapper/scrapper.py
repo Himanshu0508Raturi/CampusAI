@@ -4,7 +4,7 @@ from urllib.parse import urljoin, urlparse
 from collections import deque
 import time
 
-START_URL = "https://gehu.ac.in/dehradun/top-placement/"
+START_URL = "https://gehu.ac.in/"
 DOMAIN = urlparse(START_URL).netloc
 OUTPUT_FILE = "gehu-top-placement.txt"
 MAX_PAGES = 300
